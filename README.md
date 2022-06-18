@@ -5,7 +5,9 @@ We just wanted a simple memory game for kids 4+ age. No ads, no complicated scre
 
 Features
 3 Themes : Drinks 🧋: Fruits and Vegies 🍎: & Meat and Seafood 🐙:
+
 6 types of difficulties 🌟
+
 Sounds on winning 🎵
 
 If you have more ideas or you want to add more options / themes / sounds or whatever, fill free to update the source for yourself or open a pull request. ✨
